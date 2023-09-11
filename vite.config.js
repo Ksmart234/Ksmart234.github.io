@@ -1,3 +1,3 @@
 export default {
-  base: '../Ksmart234/',
+  base: '../Ksmart234',
 };
