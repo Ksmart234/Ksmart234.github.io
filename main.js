@@ -29,19 +29,19 @@ let clipNames = [
 let projects = [
   {
     image: 'textures/project.webp',
-    url: 'https://',
+    url: 'https://github.com/Ksmart234/Client-system-php/tree/main',
   },
   {
     image: 'textures/project.jpg',
-    url: 'https://',
+    url: 'https://github.com/Ksmart234/Guest-pass',
   },
   {
     image: 'textures/project (3).jpg',
-    url: 'https://',
+    url: 'https://github.com/Ksmart234/Client-system-php/tree/main',
   },
   {
     image: 'textures/project (2).jpg',
-    url: 'https://',
+    url: 'https://github.com/Ksmart234/Guest-pass',
   },
 ];
 let aboutCameraPos = {
