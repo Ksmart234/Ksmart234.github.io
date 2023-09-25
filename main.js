@@ -28,7 +28,7 @@ let clipNames = [
 ];
 let projects = [
   {
-    image: 'textures/project.webp',
+    image: 'textures/project (4).jpg',
     url: 'https://github.com/Ksmart234/Client-system-php/tree/main',
   },
   {
